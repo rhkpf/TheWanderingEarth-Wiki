@@ -1,0 +1,24 @@
+.cardContainer{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:1rem;
+}
+.topSectionContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.searchBar{
+    width: 300px;
+    height: 35px;
+    border-radius: 8px;
+}
+.filterSelect{
+    height: 35px;
+    width: 150px;
+}
