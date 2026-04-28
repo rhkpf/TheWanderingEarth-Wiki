@@ -19,4 +19,4 @@ if the website is not working , these are the instructions
 1. install node from nodejs.org if not on wsl, if on wsl run curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash then nvm install 22 then nvm use 22
 2. run npm install in terminal
 3. run npm run dev then o+enter to access website on local machine
-else website link is: https://the-wandering-earth-wiki.vercel.app/wiki
+else website link is: https://the-wandering-earth-wiki.vercel.app/
